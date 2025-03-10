@@ -22,7 +22,7 @@ gcc -o cpay main.c user.c account.c transaction.c ui.c
 Or use the included Makefile:
 
 ```
-make
+ming32-make
 ```
 
 ## How to Use
