@@ -1,0 +1,30 @@
+# Executable files
+*.exe
+sikka
+cpay
+
+# Object files
+*.o
+
+# Visual Studio Code settings
+.vscode/
+
+# Debug files
+*.dSYM/
+
+# Text files with sensitive data
+*.txt
+
+# Dependency files
+*.d
+
+# Windows specific
+Thumbs.db
+Desktop.ini
+
+# Backup files
+*~
+*.bak
+
+# Core dumps
+core
